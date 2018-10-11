@@ -1,7 +1,7 @@
 # HelloWorld-Swift-CommandLineTool
 Hello World Swift Language Command Line Tool (Terminal)
 
-- Compile and run on terminal: 
+- Download (curl),compile(swiftc) and run(./) on terminal: 
 
 Open Terminal application  
 curl https://raw.githubusercontent.com/ballber/HelloWorld-Swift-CommandLineTool/master/HelloWorld-Swift-CommandLineTool/main.swift  
@@ -14,7 +14,7 @@ Open Terminal application
 swift  
 print("Hello, World!")  
 
-- To run on xcode :
+- Using xcode IDE :
 
 Open xCode application  
 Welcome to Xcode (cmd+may+1 or Window:Welcome to xcode)  
