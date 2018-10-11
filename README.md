@@ -11,7 +11,6 @@ swiftc main.swift
 - Selfmade run on terminal : 
 
 Open Terminal application  
-
 swift  
 print("Hello, World!")  
 
