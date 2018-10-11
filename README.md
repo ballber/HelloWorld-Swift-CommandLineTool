@@ -17,6 +17,6 @@ print("Hello, World!")
 - Using xcode IDE :
 
 Open xCode application  
-Welcome to Xcode (cmd+may+1 or Window:Welcome to xcode)  
+Welcome to Xcode (cmd+may+1 or Menu>Window>Welcome to xcode)  
 Clone an existing Project > https://github.com/ballber/HelloWorld-Swift-CommandLineTool/  
 Play  
