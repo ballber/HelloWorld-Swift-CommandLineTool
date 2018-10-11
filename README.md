@@ -7,7 +7,7 @@ swiftc main.swift
 ./main
 
 - Selfmade run on terminal : 
-
+curl https://raw.githubusercontent.com/ballber/HelloWorld-Swift-CommandLineTool/master/HelloWorld-Swift-CommandLineTool/main.swift
 swift
 print("Hello, World!")
 
@@ -15,6 +15,9 @@ print("Hello, World!")
 
 Open xCode application
 Welcome to Xcode (cmd+may+1 or Window:Welcome to xcode)
+
 Clone an existing Project
+
 https://github.com/ballber/HelloWorld-Swift-CommandLineTool/
+
 Play
