@@ -4,13 +4,14 @@ Hello World Swift Language Command Line Tool (Terminal)
 - Compile and run on terminal: 
 
 Open Terminal application  
+curl https://raw.githubusercontent.com/ballber/HelloWorld-Swift-CommandLineTool/master/HelloWorld-Swift-CommandLineTool/main.swift  
 swiftc main.swift  
 ./main  
 
 - Selfmade run on terminal : 
 
 Open Terminal application  
-curl https://raw.githubusercontent.com/ballber/HelloWorld-Swift-CommandLineTool/master/HelloWorld-Swift-CommandLineTool/main.swift  
+
 swift  
 print("Hello, World!")  
 
