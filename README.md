@@ -8,7 +8,7 @@ curl https://raw.githubusercontent.com/ballber/HelloWorld-Swift-CommandLineTool/
 swiftc main.swift  
 ./main  
 
-- Selfmade run on terminal : 
+- Selfmade run on terminal (without download code, type it!) : 
 
 Open Terminal application  
 swift  
